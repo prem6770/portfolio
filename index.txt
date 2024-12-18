@@ -1,6 +1,6 @@
-Drew Hays - Get your product identity from me.
+Prem Rathod - Get your product identity from me.
 
-This is a personal portfolio html template made by codewithsadee
+This is a personal portfolio html template made by codewithprem
 
 
 
@@ -30,9 +30,9 @@ aria-label = open menu
 
 #---------- HERO ----------#
 
-alt = Drew Hays
+alt = Prem Rathod
 
-Drew Hays
+Prem Rathod
 
 Get Your Product Identity From Me.
 
@@ -78,13 +78,13 @@ A very small stage in a vast cosmic.
 A very small stage in a vast cosmic arena great turbuslent clouds encyclo-paedia galactica star stuff harvesting star light the carbon in our apple pies realm of the galaxies
 
 Name
-Drew Hays
+Prem Rathod
 
 Phone Number
 123. 456. 789. 01
 
 Email Address
-info@drew.com
+trippy542@gmail.com
 
 Social Network
 
